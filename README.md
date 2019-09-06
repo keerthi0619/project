@@ -15,7 +15,7 @@
 <body>
   <!-- 5. Best/proper way to declare the header for a page -->
   <header>
-    <h1>NITIN GUNWANT BOBADE</h1>
+    <h1>KEERTHI REDDY</h1>
     <nav>
       <a href="http://www.coursera.org" target="_blank">One</a>
       <a href="https://www.edx.org/" target="_blank">Two</a>
@@ -57,7 +57,7 @@
   <!-- 9. Best/proper way to create a footer that has an image, paragraph, and link. Be careful, that paragraph includes a special entity -->
   <footer>
     <p>
-      <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Intro to web design logo"> This page was created by Keerthi &amp; Colleen van Lent. To learn more about web design, visit <a href="http://www.intro-webdesign.com/">Intro to Web Design.</a>
+      <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="Intro to web design logo"> This page was created by Keerthi &amp; To learn more about web design, visit <a href="http://www.intro-webdesign.com/">Intro to Web Design.</a>
     </p>
   </footer>
 
